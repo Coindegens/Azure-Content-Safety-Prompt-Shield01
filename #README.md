@@ -1,4 +1,4 @@
-#Implement Azure AI Content Safety
+**Implement Azure AI Content Safety - Prompt Shield**
 
 This project demonstrates the implementation of Azure AI Content Safety service to detect and shield against potential jailbreak attacks and unsafe content in prompts and documents.
 
