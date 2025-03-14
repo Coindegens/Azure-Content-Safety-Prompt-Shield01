@@ -48,7 +48,7 @@ The API returns:
 
 ## Contributing
 
-This repository is for learning purposes as part of Microsoft Learn modules. Please refer to Microsoft Learn for more information about contributing.
+This repository is for my learning purposes.
 
 Copyright (c) All rights reserved.
 
