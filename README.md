@@ -46,8 +46,6 @@ The API returns:
 - Document security assessment
 - Risk categories and confidence scores
 
-## License
-
 Copyright (c) All rights reserved.
 
 ## Additional Resources
